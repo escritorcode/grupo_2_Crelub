@@ -26,9 +26,9 @@ Entonces, si alguna vez te preguntas si en Crelub estamos un poco locos, la resp
 
 # Desarrolladores 👽 🧠
 
-MilagrosDíaz(@miludiaz31) 👩‍🚀💻 <br>
-NalisBarrios(@naeliz-B) 👩‍🚀💻 <br>
-JoanieCuevas(@jcuevas-xvi) 👩‍🚀💻 <br>
-MelvinVelazquez(@melvin1499) 👨‍🚀💻 <br>
-RuandoDean(@ruando07) 👨‍🚀💻 <br>
-VladimirWillians(@escritorcode) 👨‍🚀💻
+👩‍🚀MilagrosDíaz(@miludiaz31)💻 <br>
+👩‍🚀NalisBarrios(@naeliz-B)💻 <br>
+👩‍🚀JoanieCuevas(@jcuevas-xvi)💻 <br>
+👨‍🚀MelvinVelazquez(@melvin1499)💻 <br>
+👨‍🚀RuandoDean(@ruando07)💻 <br>
+👨‍🚀VladimirWillians(@escritorcode)💻
