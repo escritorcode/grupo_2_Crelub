@@ -33,9 +33,13 @@ Entonces, si alguna vez te preguntas si en Crelub estamos un poco locos, la resp
 👨‍🚀💻RuandoDean(@ruando07)<br>
 👨‍🚀💻VladimirWillians(@escritorcode)
 
-| Mi contenido va aquí.
-| Otra línea de contenido.
-| Más contenido.
+**************************
+####   REFERECIAS                    
+* [AMAZON](https://www.amazon.com/m)
+* [EBAY](https://pa.ebay.com/)                   
+**************************
+
+
 
 
 
