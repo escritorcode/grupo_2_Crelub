@@ -34,9 +34,7 @@ Entonces, si alguna vez te preguntas si en Crelub estamos un poco locos, la resp
 👨‍🚀💻VladimirWillians(@escritorcode)
 
 **************************
-*                        *
-* Tu contenido va aquí   *
-*                        *
+
 **************************
 
 
