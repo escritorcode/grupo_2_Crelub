@@ -4,6 +4,12 @@
 
 **Crelub** es una plataforma que se dedicara a la comercialización de productos, donde los usuarios pueden adquirir productos y, simultáneamente, participar en el crecimiento de la empresa mediante la compra de pequeñas acciones. Estas acciones, adquiridas por los usuarios, se traducen en bonos canjeables que pueden ser utilizados para obtener productos en nuestra plataforma. Nuestro enfoque de negocio se centra en acelerar la obtención de ganancias para nuestros vendedores, permitiéndoles establecerse y expandirse de manera efectiva en la plataforma. Buscamos proporcionar una estrategia sólida que permita a los vendedores impulsar su negocio de manera eficiente y competitiva, brindándoles la oportunidad de crecer y alcanzar sus objetivos de ventas de manera satisfactoria. Estamos comprometidos en brindar a cada vendedor la oportunidad de prosperar y no sentir que la competencia les supera, contribuyendo así a un ambiente propicio para el crecimiento y el éxito.
 
+## Publico 🧑 👩
+* Vendedores y comerciantes 💼
+* Inversores individuales📊
+* Compradores en línea 💳
+* Emprendedores y pequeñas empresas 🏢
+
 ## Misión y Visión 🚀
 
 **Misión**: Nuestra misión en Crelub es ser la plataforma líder en la compra y venta de productos que promueve un ecosistema donde cada usuario no solo adquiere productos de calidad, sino que también contribuye al crecimiento y éxito continuo de la empresa.
@@ -34,9 +40,9 @@ Entonces, si alguna vez te preguntas si en Crelub estamos un poco locos, la resp
 👨‍🚀💻VladimirWillians(@escritorcode)
 
 **************************
-####   REFERECIAS                    
-* [AMAZON](https://www.amazon.com/m)
-* [EBAY](https://pa.ebay.com/)                   
+>####   REFERECIAS                    
+>* [AMAZON](https://www.amazon.com/m)
+>* [EBAY](https://pa.ebay.com/)                   
 **************************
 
 
